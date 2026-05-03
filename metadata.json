@@ -1,0 +1,12 @@
+{
+  "name": "MultanRoute Optimizer",
+  "description": "Smart urban delivery route optimization for Multan, Pakistan, featuring peak-hour traffic avoidance and multi-stop planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Location Services",
+    "Route Optimization",
+    "AI Recommendations"
+  ]
+}
